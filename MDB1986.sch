@@ -66,77 +66,77 @@
 <layer number="57" name="tCAD" color="7" fill="1" visible="no" active="no"/>
 <layer number="59" name="tCarbon" color="7" fill="1" visible="no" active="no"/>
 <layer number="60" name="bCarbon" color="7" fill="1" visible="no" active="no"/>
-<layer number="88" name="SimResults" color="9" fill="1" visible="yes" active="yes"/>
-<layer number="89" name="SimProbes" color="9" fill="1" visible="yes" active="yes"/>
-<layer number="90" name="Modules" color="5" fill="1" visible="yes" active="yes"/>
+<layer number="88" name="SimResults" color="9" fill="1" visible="no" active="yes"/>
+<layer number="89" name="SimProbes" color="9" fill="1" visible="no" active="yes"/>
+<layer number="90" name="Modules" color="5" fill="1" visible="no" active="yes"/>
 <layer number="91" name="Nets" color="2" fill="1" visible="yes" active="yes"/>
 <layer number="92" name="Busses" color="1" fill="1" visible="yes" active="yes"/>
 <layer number="93" name="Pins" color="2" fill="1" visible="no" active="yes"/>
 <layer number="94" name="Symbols" color="4" fill="1" visible="yes" active="yes"/>
 <layer number="95" name="Names" color="7" fill="1" visible="yes" active="yes"/>
 <layer number="96" name="Values" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="97" name="Info" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="98" name="Guide" color="6" fill="1" visible="yes" active="yes"/>
+<layer number="97" name="Info" color="7" fill="1" visible="no" active="yes"/>
+<layer number="98" name="Guide" color="6" fill="1" visible="no" active="yes"/>
 <layer number="99" name="SpiceOrder" color="7" fill="1" visible="no" active="no"/>
-<layer number="100" name="Muster" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="101" name="Patch_Top" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="102" name="Vscore" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="103" name="ATT_MISO" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="104" name="Name" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="105" name="Beschreib" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="106" name="BGA-Top" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="107" name="BD-Top" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="108" name="centerline" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="109" name="fp9" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="110" name="fp0" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="111" name="LPC17xx" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="112" name="tSilk" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="100" name="Muster" color="7" fill="1" visible="no" active="yes"/>
+<layer number="101" name="Patch_Top" color="7" fill="1" visible="no" active="yes"/>
+<layer number="102" name="Vscore" color="7" fill="1" visible="no" active="yes"/>
+<layer number="103" name="ATT_MISO" color="7" fill="1" visible="no" active="yes"/>
+<layer number="104" name="Name" color="7" fill="1" visible="no" active="yes"/>
+<layer number="105" name="Beschreib" color="7" fill="1" visible="no" active="yes"/>
+<layer number="106" name="BGA-Top" color="7" fill="1" visible="no" active="yes"/>
+<layer number="107" name="BD-Top" color="7" fill="1" visible="no" active="yes"/>
+<layer number="108" name="centerline" color="7" fill="1" visible="no" active="yes"/>
+<layer number="109" name="fp9" color="7" fill="1" visible="no" active="yes"/>
+<layer number="110" name="fp0" color="7" fill="1" visible="no" active="yes"/>
+<layer number="111" name="LPC17xx" color="7" fill="1" visible="no" active="yes"/>
+<layer number="112" name="tSilk" color="7" fill="1" visible="no" active="yes"/>
 <layer number="113" name="ReferenceLS" color="7" fill="1" visible="no" active="no"/>
 <layer number="114" name="FRNTMAAT1" color="7" fill="1" visible="no" active="no"/>
 <layer number="115" name="FRNTMAAT2" color="7" fill="1" visible="no" active="no"/>
-<layer number="116" name="Patch_BOT" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="116" name="Patch_BOT" color="7" fill="1" visible="no" active="yes"/>
 <layer number="117" name="BACKMAAT1" color="7" fill="1" visible="no" active="no"/>
 <layer number="118" name="Rect_Pads" color="7" fill="1" visible="no" active="no"/>
 <layer number="119" name="KAP_TEKEN" color="7" fill="1" visible="no" active="no"/>
 <layer number="120" name="KAP_MAAT1" color="7" fill="1" visible="no" active="no"/>
-<layer number="121" name="_tsilk" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="122" name="_bsilk" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="123" name="tTestmark" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="124" name="bTestmark" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="125" name="_tNames" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="126" name="_bNames" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="127" name="_tValues" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="128" name="_bValues" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="129" name="Mask" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="121" name="_tsilk" color="7" fill="1" visible="no" active="yes"/>
+<layer number="122" name="_bsilk" color="7" fill="1" visible="no" active="yes"/>
+<layer number="123" name="tTestmark" color="7" fill="1" visible="no" active="yes"/>
+<layer number="124" name="bTestmark" color="7" fill="1" visible="no" active="yes"/>
+<layer number="125" name="_tNames" color="7" fill="1" visible="no" active="yes"/>
+<layer number="126" name="_bNames" color="7" fill="1" visible="no" active="yes"/>
+<layer number="127" name="_tValues" color="7" fill="1" visible="no" active="yes"/>
+<layer number="128" name="_bValues" color="7" fill="1" visible="no" active="yes"/>
+<layer number="129" name="Mask" color="7" fill="1" visible="no" active="yes"/>
 <layer number="130" name="SMDSTROOK" color="7" fill="1" visible="no" active="no"/>
-<layer number="131" name="prix" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="132" name="test" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="131" name="prix" color="7" fill="1" visible="no" active="yes"/>
+<layer number="132" name="test" color="7" fill="1" visible="no" active="yes"/>
 <layer number="133" name="bottom_silk" color="7" fill="1" visible="no" active="no"/>
-<layer number="144" name="Drill_legend" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="150" name="Notes" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="151" name="HeatSink" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="152" name="_bDocu" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="144" name="Drill_legend" color="7" fill="1" visible="no" active="yes"/>
+<layer number="150" name="Notes" color="7" fill="1" visible="no" active="yes"/>
+<layer number="151" name="HeatSink" color="7" fill="1" visible="no" active="yes"/>
+<layer number="152" name="_bDocu" color="7" fill="1" visible="no" active="yes"/>
 <layer number="153" name="FabDoc1" color="6" fill="1" visible="no" active="no"/>
 <layer number="154" name="FabDoc2" color="2" fill="1" visible="no" active="no"/>
 <layer number="155" name="FabDoc3" color="7" fill="15" visible="no" active="no"/>
-<layer number="199" name="Contour" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="200" name="200bmp" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="201" name="201bmp" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="202" name="202bmp" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="203" name="203bmp" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="204" name="204bmp" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="205" name="205bmp" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="206" name="206bmp" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="207" name="207bmp" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="208" name="208bmp" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="209" name="209bmp" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="210" name="210bmp" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="211" name="211bmp" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="212" name="212bmp" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="213" name="213bmp" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="214" name="214bmp" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="215" name="215bmp" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="216" name="216bmp" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="199" name="Contour" color="7" fill="1" visible="no" active="yes"/>
+<layer number="200" name="200bmp" color="7" fill="1" visible="no" active="yes"/>
+<layer number="201" name="201bmp" color="7" fill="1" visible="no" active="yes"/>
+<layer number="202" name="202bmp" color="7" fill="1" visible="no" active="yes"/>
+<layer number="203" name="203bmp" color="7" fill="1" visible="no" active="yes"/>
+<layer number="204" name="204bmp" color="7" fill="1" visible="no" active="yes"/>
+<layer number="205" name="205bmp" color="7" fill="1" visible="no" active="yes"/>
+<layer number="206" name="206bmp" color="7" fill="1" visible="no" active="yes"/>
+<layer number="207" name="207bmp" color="7" fill="1" visible="no" active="yes"/>
+<layer number="208" name="208bmp" color="7" fill="1" visible="no" active="yes"/>
+<layer number="209" name="209bmp" color="7" fill="1" visible="no" active="yes"/>
+<layer number="210" name="210bmp" color="7" fill="1" visible="no" active="yes"/>
+<layer number="211" name="211bmp" color="7" fill="1" visible="no" active="yes"/>
+<layer number="212" name="212bmp" color="7" fill="1" visible="no" active="yes"/>
+<layer number="213" name="213bmp" color="7" fill="1" visible="no" active="yes"/>
+<layer number="214" name="214bmp" color="7" fill="1" visible="no" active="yes"/>
+<layer number="215" name="215bmp" color="7" fill="1" visible="no" active="yes"/>
+<layer number="216" name="216bmp" color="7" fill="1" visible="no" active="yes"/>
 <layer number="217" name="217bmp" color="18" fill="1" visible="no" active="no"/>
 <layer number="218" name="218bmp" color="19" fill="1" visible="no" active="no"/>
 <layer number="219" name="219bmp" color="20" fill="1" visible="no" active="no"/>
@@ -145,25 +145,26 @@
 <layer number="222" name="222bmp" color="23" fill="1" visible="no" active="no"/>
 <layer number="223" name="223bmp" color="24" fill="1" visible="no" active="no"/>
 <layer number="224" name="224bmp" color="25" fill="1" visible="no" active="no"/>
-<layer number="225" name="225bmp" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="226" name="226bmp" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="227" name="227bmp" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="228" name="228bmp" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="229" name="229bmp" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="230" name="230bmp" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="225" name="225bmp" color="7" fill="1" visible="no" active="yes"/>
+<layer number="226" name="226bmp" color="7" fill="1" visible="no" active="yes"/>
+<layer number="227" name="227bmp" color="7" fill="1" visible="no" active="yes"/>
+<layer number="228" name="228bmp" color="7" fill="1" visible="no" active="yes"/>
+<layer number="229" name="229bmp" color="7" fill="1" visible="no" active="yes"/>
+<layer number="230" name="230bmp" color="7" fill="1" visible="no" active="yes"/>
 <layer number="231" name="Eagle3D_PG1" color="7" fill="1" visible="no" active="no"/>
 <layer number="232" name="Eagle3D_PG2" color="7" fill="1" visible="no" active="no"/>
 <layer number="233" name="Eagle3D_PG3" color="7" fill="1" visible="no" active="no"/>
-<layer number="248" name="PLCDoku" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="249" name="MillDoku" color="3" fill="1" visible="yes" active="yes"/>
-<layer number="250" name="Descript" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="251" name="SMDround" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="252" name="BR-BS" color="4" fill="9" visible="yes" active="yes"/>
-<layer number="253" name="BR-LS" color="1" fill="2" visible="yes" active="yes"/>
-<layer number="254" name="cooling" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="255" name="ZchnBlatt" color="15" fill="1" visible="yes" active="yes"/>
+<layer number="248" name="PLCDoku" color="7" fill="1" visible="no" active="yes"/>
+<layer number="249" name="MillDoku" color="3" fill="1" visible="no" active="yes"/>
+<layer number="250" name="Descript" color="7" fill="1" visible="no" active="yes"/>
+<layer number="251" name="SMDround" color="7" fill="1" visible="no" active="yes"/>
+<layer number="252" name="BR-BS" color="4" fill="9" visible="no" active="yes"/>
+<layer number="253" name="BR-LS" color="1" fill="2" visible="no" active="yes"/>
+<layer number="254" name="cooling" color="7" fill="1" visible="no" active="yes"/>
+<layer number="255" name="ZchnBlatt" color="15" fill="1" visible="no" active="yes"/>
 </layers>
 <schematic xreflabel="%F%N/%S.%C%R" xrefpart="/%S.%C%R">
+<description>Milandr Development Board K1986BE1T (K1986BE1QI - LQFP144)</description>
 <libraries>
 <library name="MakBit">
 <packages>
@@ -5037,7 +5038,7 @@ Source: http://pdfserv.maxim-ic.com/en/ds/MAX3222-MAX3241.pdf</description>
 <part name="S2" library="MakBit" deviceset="SWITCH-10-XX" device=""/>
 <part name="S3" library="MakBit" deviceset="SWITCH-10-XX" device=""/>
 <part name="D1" library="MakBit" deviceset="USBLC6-2SC6" device=""/>
-<part name="IC1" library="maxim" library_urn="urn:adsk.eagle:library:269" deviceset="MAX3232*" device="SE" package3d_urn="urn:adsk.eagle:package:17517/1" technology="C"/>
+<part name="U8" library="maxim" library_urn="urn:adsk.eagle:library:269" deviceset="MAX3232*" device="SE" package3d_urn="urn:adsk.eagle:package:17517/1" technology="C"/>
 <part name="U1" library="MakBit" deviceset="MCU-K1986BE1QI" device=""/>
 <part name="+3V1" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="+3V3" device=""/>
 <part name="+3V2" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="+3V3" device=""/>
@@ -5161,7 +5162,7 @@ Source: http://pdfserv.maxim-ic.com/en/ds/MAX3222-MAX3241.pdf</description>
 <part name="JP3" library="pinhead" library_urn="urn:adsk.eagle:library:325" deviceset="PINHD-1X3" device="" package3d_urn="urn:adsk.eagle:package:22458/2"/>
 <part name="GND12" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
 <part name="R6" library="MakBit" deviceset="R-EU" device="0805"/>
-<part name="U7" library="MakBit" deviceset="W25Q64FVSS" device=""/>
+<part name="U7" library="MakBit" deviceset="W25Q64FVSS" device="" value="W25Q64FV"/>
 <part name="R41" library="MakBit" deviceset="R-EU" device="0805"/>
 <part name="D3" library="MakBit" deviceset="DIODE" device="DO-214(SMB)"/>
 <part name="D4" library="MakBit" deviceset="DIODE" device="DO-214(SMA)" value="RS1A"/>
@@ -5191,13 +5192,13 @@ Source: http://pdfserv.maxim-ic.com/en/ds/MAX3222-MAX3241.pdf</description>
 <attribute name="NAME" x="127" y="122.555" size="1.778" layer="95" ratio="10" rot="MR0"/>
 <attribute name="VALUE" x="132.08" y="106.68" size="1.778" layer="96" ratio="10" rot="MR0"/>
 </instance>
-<instance part="IC1" gate="G$1" x="210.82" y="167.64"/>
+<instance part="U8" gate="G$1" x="210.82" y="167.64"/>
 <instance part="U1" gate=".1" x="144.78" y="220.98"/>
 <instance part="U1" gate=".2" x="210.82" y="220.98"/>
 <instance part="U1" gate=".3" x="276.86" y="220.98"/>
 <instance part="+3V1" gate="G$1" x="73.66" y="129.54"/>
 <instance part="+3V2" gate="G$1" x="170.18" y="35.56" rot="R270"/>
-<instance part="+3V4" gate="G$1" x="137.16" y="86.36"/>
+<instance part="+3V4" gate="G$1" x="147.32" y="86.36"/>
 <instance part="+3V5" gate="G$1" x="76.2" y="246.38"/>
 <instance part="GND1" gate="1" x="40.64" y="104.14"/>
 <instance part="GND4" gate="1" x="276.86" y="170.18"/>
@@ -5205,15 +5206,15 @@ Source: http://pdfserv.maxim-ic.com/en/ds/MAX3222-MAX3241.pdf</description>
 <instance part="L1" gate="G$1" x="58.42" y="124.46"/>
 <instance part="JP1" gate="A" x="144.78" y="180.34"/>
 <instance part="JP2" gate="A" x="144.78" y="147.32"/>
-<instance part="R4" gate="G$1" x="147.32" y="60.96" smashed="yes" rot="MR0">
-<attribute name="NAME" x="144.018" y="62.4586" size="1.778" layer="95" rot="MR0"/>
-<attribute name="VALUE" x="151.13" y="57.658" size="1.778" layer="96" rot="MR0"/>
+<instance part="R4" gate="G$1" x="139.7" y="60.96" smashed="yes" rot="MR0">
+<attribute name="NAME" x="136.398" y="62.4586" size="1.778" layer="95" rot="MR0"/>
+<attribute name="VALUE" x="143.51" y="57.658" size="1.778" layer="96" rot="MR0"/>
 </instance>
-<instance part="R5" gate="G$1" x="147.32" y="58.42" smashed="yes" rot="MR0">
-<attribute name="NAME" x="144.018" y="56.3626" size="1.778" layer="95" rot="MR0"/>
-<attribute name="VALUE" x="148.59" y="54.864" size="1.778" layer="96" rot="MR0"/>
+<instance part="R5" gate="G$1" x="139.7" y="58.42" smashed="yes" rot="MR0">
+<attribute name="NAME" x="136.398" y="56.3626" size="1.778" layer="95" rot="MR0"/>
+<attribute name="VALUE" x="140.97" y="54.864" size="1.778" layer="96" rot="MR0"/>
 </instance>
-<instance part="R3" gate="G$1" x="137.16" y="73.66" rot="MR270"/>
+<instance part="R3" gate="G$1" x="147.32" y="71.12" rot="MR270"/>
 <instance part="R11" gate="G$1" x="119.38" y="30.48" rot="R90"/>
 <instance part="R15" gate="G$1" x="30.48" y="50.8" smashed="yes">
 <attribute name="NAME" x="25.146" y="47.7266" size="1.778" layer="95"/>
@@ -5269,7 +5270,7 @@ Source: http://pdfserv.maxim-ic.com/en/ds/MAX3222-MAX3241.pdf</description>
 <instance part="D11" gate="G$1" x="162.56" y="35.56" rot="R270"/>
 <instance part="R17" gate="G$1" x="149.86" y="35.56"/>
 <instance part="R18" gate="G$1" x="149.86" y="27.94"/>
-<instance part="IC1" gate="P" x="210.82" y="187.96" rot="R90"/>
+<instance part="U8" gate="P" x="210.82" y="187.96" rot="R90"/>
 <instance part="C10" gate="G$1" x="254" y="55.88"/>
 <instance part="C6" gate="G$1" x="88.9" y="116.84"/>
 <instance part="C7" gate="G$1" x="83.82" y="223.52"/>
@@ -5310,7 +5311,7 @@ Source: http://pdfserv.maxim-ic.com/en/ds/MAX3222-MAX3241.pdf</description>
 <instance part="GND19" gate="1" x="17.78" y="193.04"/>
 <instance part="R1" gate="G$1" x="91.44" y="139.7"/>
 <instance part="GND20" gate="1" x="81.28" y="132.08"/>
-<instance part="F2" gate="A" x="147.32" y="68.58" rot="MR90"/>
+<instance part="F2" gate="A" x="152.4" y="68.58" rot="MR90"/>
 <instance part="FRAME2" gate="G$1" x="0" y="0"/>
 <instance part="R24" gate="G$1" x="337.82" y="99.06"/>
 <instance part="R25" gate="G$1" x="337.82" y="88.9"/>
@@ -5369,7 +5370,7 @@ Source: http://pdfserv.maxim-ic.com/en/ds/MAX3222-MAX3241.pdf</description>
 <instance part="R6" gate="G$1" x="363.22" y="195.58"/>
 <instance part="U7" gate="G$1" x="276.86" y="109.22"/>
 <instance part="R41" gate="G$1" x="256.54" y="114.3"/>
-<instance part="D3" gate="G$1" x="147.32" y="78.74" rot="R90"/>
+<instance part="D3" gate="G$1" x="152.4" y="78.74" rot="R90"/>
 <instance part="D4" gate="G$1" x="314.96" y="137.16" rot="MR270"/>
 <instance part="R42" gate="G$1" x="325.12" y="162.56" smashed="yes">
 <attribute name="NAME" x="320.04" y="157.7086" size="1.778" layer="95"/>
@@ -5898,7 +5899,7 @@ Source: http://pdfserv.maxim-ic.com/en/ds/MAX3222-MAX3241.pdf</description>
 </segment>
 <segment>
 <pinref part="U3" gate="G$1" pin="VDD_2"/>
-<wire x1="114.3" y1="66.04" x2="132.08" y2="66.04" width="0.1524" layer="91"/>
+<wire x1="114.3" y1="66.04" x2="127" y2="66.04" width="0.1524" layer="91"/>
 <label x="116.84" y="66.04" size="1.778" layer="95"/>
 </segment>
 <segment>
@@ -5922,7 +5923,7 @@ Source: http://pdfserv.maxim-ic.com/en/ds/MAX3222-MAX3241.pdf</description>
 <wire x1="165.1" y1="35.56" x2="167.64" y2="35.56" width="0.1524" layer="91"/>
 </segment>
 <segment>
-<pinref part="IC1" gate="P" pin="VCC"/>
+<pinref part="U8" gate="P" pin="VCC"/>
 <wire x1="203.2" y1="187.96" x2="177.8" y2="187.96" width="0.1524" layer="91"/>
 <label x="182.88" y="187.96" size="1.778" layer="95"/>
 </segment>
@@ -5992,7 +5993,7 @@ Source: http://pdfserv.maxim-ic.com/en/ds/MAX3222-MAX3241.pdf</description>
 <segment>
 <pinref part="R3" gate="G$1" pin="1"/>
 <pinref part="+3V4" gate="G$1" pin="+3V3"/>
-<wire x1="137.16" y1="78.74" x2="137.16" y2="83.82" width="0.1524" layer="91"/>
+<wire x1="147.32" y1="76.2" x2="147.32" y2="83.82" width="0.1524" layer="91"/>
 </segment>
 <segment>
 <pinref part="R6" gate="G$1" pin="2"/>
@@ -6221,7 +6222,7 @@ Source: http://pdfserv.maxim-ic.com/en/ds/MAX3222-MAX3241.pdf</description>
 </segment>
 <segment>
 <pinref part="U3" gate="G$1" pin="VSS_2"/>
-<wire x1="114.3" y1="63.5" x2="132.08" y2="63.5" width="0.1524" layer="91"/>
+<wire x1="114.3" y1="63.5" x2="127" y2="63.5" width="0.1524" layer="91"/>
 <label x="116.84" y="63.5" size="1.778" layer="95"/>
 </segment>
 <segment>
@@ -6278,7 +6279,7 @@ Source: http://pdfserv.maxim-ic.com/en/ds/MAX3222-MAX3241.pdf</description>
 <wire x1="167.64" y1="27.94" x2="165.1" y2="27.94" width="0.1524" layer="91"/>
 </segment>
 <segment>
-<pinref part="IC1" gate="P" pin="GND"/>
+<pinref part="U8" gate="P" pin="GND"/>
 <wire x1="218.44" y1="187.96" x2="238.76" y2="187.96" width="0.1524" layer="91"/>
 <label x="233.68" y="187.96" size="1.778" layer="95"/>
 <wire x1="238.76" y1="187.96" x2="243.84" y2="187.96" width="0.1524" layer="91"/>
@@ -6591,7 +6592,7 @@ Source: http://pdfserv.maxim-ic.com/en/ds/MAX3222-MAX3241.pdf</description>
 </segment>
 <segment>
 <pinref part="U4" gate="G$1" pin="DIN"/>
-<label x="309.88" y="154.94" size="1.778" layer="95"/>
+<label x="312.42" y="154.94" size="1.778" layer="95"/>
 <wire x1="330.2" y1="154.94" x2="309.88" y2="154.94" width="0.1524" layer="91"/>
 </segment>
 <segment>
@@ -6685,7 +6686,7 @@ Source: http://pdfserv.maxim-ic.com/en/ds/MAX3222-MAX3241.pdf</description>
 <label x="228.6" y="213.36" size="1.778" layer="95"/>
 </segment>
 <segment>
-<pinref part="IC1" gate="G$1" pin="T2IN"/>
+<pinref part="U8" gate="G$1" pin="T2IN"/>
 <wire x1="195.58" y1="157.48" x2="177.8" y2="157.48" width="0.1524" layer="91"/>
 <label x="180.34" y="157.48" size="1.778" layer="95"/>
 </segment>
@@ -6702,7 +6703,7 @@ Source: http://pdfserv.maxim-ic.com/en/ds/MAX3222-MAX3241.pdf</description>
 <label x="228.6" y="210.82" size="1.778" layer="95"/>
 </segment>
 <segment>
-<pinref part="IC1" gate="G$1" pin="R2OUT"/>
+<pinref part="U8" gate="G$1" pin="R2OUT"/>
 <wire x1="195.58" y1="152.4" x2="177.8" y2="152.4" width="0.1524" layer="91"/>
 <label x="180.34" y="152.4" size="1.778" layer="95"/>
 </segment>
@@ -6883,8 +6884,8 @@ Source: http://pdfserv.maxim-ic.com/en/ds/MAX3222-MAX3241.pdf</description>
 <junction x="30.48" y="121.92"/>
 </segment>
 <segment>
-<wire x1="147.32" y1="81.28" x2="147.32" y2="83.82" width="0.1524" layer="91"/>
-<label x="147.32" y="83.82" size="1.778" layer="95" rot="MR90" xref="yes"/>
+<wire x1="152.4" y1="81.28" x2="152.4" y2="83.82" width="0.1524" layer="91"/>
+<label x="152.4" y="83.82" size="1.778" layer="95" rot="MR90" xref="yes"/>
 <pinref part="D3" gate="G$1" pin="C"/>
 </segment>
 <segment>
@@ -6894,8 +6895,8 @@ Source: http://pdfserv.maxim-ic.com/en/ds/MAX3222-MAX3241.pdf</description>
 </segment>
 <segment>
 <pinref part="U6" gate="MCP2551" pin="VDD"/>
-<wire x1="198.12" y1="106.68" x2="185.42" y2="106.68" width="0.1524" layer="91"/>
-<label x="185.42" y="106.68" size="1.778" layer="95"/>
+<wire x1="198.12" y1="106.68" x2="177.8" y2="106.68" width="0.1524" layer="91"/>
+<label x="180.34" y="106.68" size="1.778" layer="95"/>
 </segment>
 <segment>
 <pinref part="D1" gate="G$1" pin="VBUS"/>
@@ -7069,14 +7070,18 @@ Source: http://pdfserv.maxim-ic.com/en/ds/MAX3222-MAX3241.pdf</description>
 <segment>
 <pinref part="R4" gate="G$1" pin="1"/>
 <pinref part="J2" gate="G$1" pin="D-"/>
-<wire x1="152.4" y1="60.96" x2="154.94" y2="60.96" width="0.1524" layer="91"/>
+<wire x1="144.78" y1="60.96" x2="154.94" y2="60.96" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="N$26" class="0">
 <segment>
 <pinref part="R5" gate="G$1" pin="1"/>
 <pinref part="J2" gate="G$1" pin="D+"/>
-<wire x1="152.4" y1="58.42" x2="154.94" y2="58.42" width="0.1524" layer="91"/>
+<wire x1="144.78" y1="58.42" x2="147.32" y2="58.42" width="0.1524" layer="91"/>
+<pinref part="R3" gate="G$1" pin="2"/>
+<wire x1="147.32" y1="58.42" x2="154.94" y2="58.42" width="0.1524" layer="91"/>
+<wire x1="147.32" y1="66.04" x2="147.32" y2="58.42" width="0.1524" layer="91"/>
+<junction x="147.32" y="58.42"/>
 </segment>
 </net>
 <net name="N$29" class="0">
@@ -7156,7 +7161,7 @@ Source: http://pdfserv.maxim-ic.com/en/ds/MAX3222-MAX3241.pdf</description>
 <segment>
 <pinref part="D1" gate="G$1" pin="IO_1"/>
 <wire x1="114.3" y1="116.84" x2="109.22" y2="116.84" width="0.1524" layer="91"/>
-<label x="111.76" y="116.84" size="1.778" layer="95" rot="R90"/>
+<label x="114.3" y="119.38" size="1.778" layer="95" rot="R180"/>
 </segment>
 </net>
 <net name="USB_DP" class="0">
@@ -7168,26 +7173,23 @@ Source: http://pdfserv.maxim-ic.com/en/ds/MAX3222-MAX3241.pdf</description>
 <segment>
 <pinref part="D1" gate="G$1" pin="IO_2"/>
 <wire x1="114.3" y1="114.3" x2="109.22" y2="114.3" width="0.1524" layer="91"/>
-<label x="111.76" y="104.14" size="1.778" layer="95" rot="R90"/>
+<label x="114.3" y="114.3" size="1.778" layer="95" rot="R180"/>
 </segment>
 </net>
 <net name="STUSB_DM" class="0">
 <segment>
 <pinref part="U3" gate="G$1" pin="PA11"/>
-<wire x1="114.3" y1="55.88" x2="137.16" y2="55.88" width="0.1524" layer="91"/>
+<wire x1="114.3" y1="55.88" x2="132.08" y2="55.88" width="0.1524" layer="91"/>
 <label x="116.84" y="55.88" size="1.778" layer="95"/>
-<wire x1="137.16" y1="55.88" x2="137.16" y2="60.96" width="0.1524" layer="91"/>
+<wire x1="132.08" y1="55.88" x2="132.08" y2="60.96" width="0.1524" layer="91"/>
 <pinref part="R4" gate="G$1" pin="2"/>
-<wire x1="142.24" y1="60.96" x2="137.16" y2="60.96" width="0.1524" layer="91"/>
-<pinref part="R3" gate="G$1" pin="2"/>
-<wire x1="137.16" y1="68.58" x2="137.16" y2="60.96" width="0.1524" layer="91"/>
-<junction x="137.16" y="60.96"/>
+<wire x1="134.62" y1="60.96" x2="132.08" y2="60.96" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="STUSB_DP" class="0">
 <segment>
 <pinref part="U3" gate="G$1" pin="PA12"/>
-<wire x1="114.3" y1="58.42" x2="142.24" y2="58.42" width="0.1524" layer="91"/>
+<wire x1="114.3" y1="58.42" x2="134.62" y2="58.42" width="0.1524" layer="91"/>
 <label x="116.84" y="58.42" size="1.778" layer="95"/>
 <pinref part="R5" gate="G$1" pin="2"/>
 </segment>
@@ -7253,7 +7255,7 @@ Source: http://pdfserv.maxim-ic.com/en/ds/MAX3222-MAX3241.pdf</description>
 <label x="228.6" y="205.74" size="1.778" layer="95"/>
 </segment>
 <segment>
-<pinref part="IC1" gate="G$1" pin="T1IN"/>
+<pinref part="U8" gate="G$1" pin="T1IN"/>
 <wire x1="195.58" y1="160.02" x2="177.8" y2="160.02" width="0.1524" layer="91"/>
 <label x="180.34" y="160.02" size="1.778" layer="95"/>
 </segment>
@@ -7270,7 +7272,7 @@ Source: http://pdfserv.maxim-ic.com/en/ds/MAX3222-MAX3241.pdf</description>
 <label x="228.6" y="203.2" size="1.778" layer="95"/>
 </segment>
 <segment>
-<pinref part="IC1" gate="G$1" pin="R1OUT"/>
+<pinref part="U8" gate="G$1" pin="R1OUT"/>
 <wire x1="195.58" y1="154.94" x2="177.8" y2="154.94" width="0.1524" layer="91"/>
 <label x="180.34" y="154.94" size="1.778" layer="95"/>
 </segment>
@@ -7434,7 +7436,7 @@ Source: http://pdfserv.maxim-ic.com/en/ds/MAX3222-MAX3241.pdf</description>
 <net name="SWDIO" class="0">
 <segment>
 <pinref part="U3" gate="G$1" pin="PA13"/>
-<wire x1="114.3" y1="60.96" x2="132.08" y2="60.96" width="0.1524" layer="91"/>
+<wire x1="114.3" y1="60.96" x2="127" y2="60.96" width="0.1524" layer="91"/>
 <label x="116.84" y="60.96" size="1.778" layer="95"/>
 </segment>
 <segment>
@@ -7493,7 +7495,7 @@ Source: http://pdfserv.maxim-ic.com/en/ds/MAX3222-MAX3241.pdf</description>
 </net>
 <net name="N$27" class="0">
 <segment>
-<pinref part="IC1" gate="G$1" pin="C1+"/>
+<pinref part="U8" gate="G$1" pin="C1+"/>
 <wire x1="195.58" y1="180.34" x2="193.04" y2="180.34" width="0.1524" layer="91"/>
 <pinref part="C22" gate="G$1" pin="2"/>
 </segment>
@@ -7502,28 +7504,28 @@ Source: http://pdfserv.maxim-ic.com/en/ds/MAX3222-MAX3241.pdf</description>
 <segment>
 <wire x1="185.42" y1="180.34" x2="182.88" y2="180.34" width="0.1524" layer="91"/>
 <wire x1="182.88" y1="180.34" x2="182.88" y2="175.26" width="0.1524" layer="91"/>
-<pinref part="IC1" gate="G$1" pin="C1-"/>
+<pinref part="U8" gate="G$1" pin="C1-"/>
 <wire x1="182.88" y1="175.26" x2="195.58" y2="175.26" width="0.1524" layer="91"/>
 <pinref part="C22" gate="G$1" pin="1"/>
 </segment>
 </net>
 <net name="N$37" class="0">
 <segment>
-<pinref part="IC1" gate="G$1" pin="V-"/>
+<pinref part="U8" gate="G$1" pin="V-"/>
 <wire x1="228.6" y1="172.72" x2="226.06" y2="172.72" width="0.1524" layer="91"/>
 <pinref part="C25" gate="G$1" pin="1"/>
 </segment>
 </net>
 <net name="N$38" class="0">
 <segment>
-<pinref part="IC1" gate="G$1" pin="V+"/>
+<pinref part="U8" gate="G$1" pin="V+"/>
 <wire x1="228.6" y1="177.8" x2="226.06" y2="177.8" width="0.1524" layer="91"/>
 <pinref part="C24" gate="G$1" pin="1"/>
 </segment>
 </net>
 <net name="N$35" class="0">
 <segment>
-<pinref part="IC1" gate="G$1" pin="C2+"/>
+<pinref part="U8" gate="G$1" pin="C2+"/>
 <wire x1="195.58" y1="170.18" x2="193.04" y2="170.18" width="0.1524" layer="91"/>
 <pinref part="C23" gate="G$1" pin="2"/>
 </segment>
@@ -7532,7 +7534,7 @@ Source: http://pdfserv.maxim-ic.com/en/ds/MAX3222-MAX3241.pdf</description>
 <segment>
 <wire x1="185.42" y1="170.18" x2="182.88" y2="170.18" width="0.1524" layer="91"/>
 <wire x1="182.88" y1="170.18" x2="182.88" y2="165.1" width="0.1524" layer="91"/>
-<pinref part="IC1" gate="G$1" pin="C2-"/>
+<pinref part="U8" gate="G$1" pin="C2-"/>
 <wire x1="182.88" y1="165.1" x2="195.58" y2="165.1" width="0.1524" layer="91"/>
 <pinref part="C23" gate="G$1" pin="1"/>
 </segment>
@@ -7550,7 +7552,7 @@ Source: http://pdfserv.maxim-ic.com/en/ds/MAX3222-MAX3241.pdf</description>
 </net>
 <net name="RS232_TX" class="0">
 <segment>
-<pinref part="IC1" gate="G$1" pin="R1IN"/>
+<pinref part="U8" gate="G$1" pin="R1IN"/>
 <wire x1="226.06" y1="154.94" x2="233.68" y2="154.94" width="0.1524" layer="91"/>
 <label x="220.98" y="134.62" size="1.778" layer="95"/>
 <wire x1="233.68" y1="154.94" x2="233.68" y2="134.62" width="0.1524" layer="91"/>
@@ -7560,7 +7562,7 @@ Source: http://pdfserv.maxim-ic.com/en/ds/MAX3222-MAX3241.pdf</description>
 </net>
 <net name="RS232_RX" class="0">
 <segment>
-<pinref part="IC1" gate="G$1" pin="T1OUT"/>
+<pinref part="U8" gate="G$1" pin="T1OUT"/>
 <wire x1="226.06" y1="160.02" x2="236.22" y2="160.02" width="0.1524" layer="91"/>
 <label x="220.98" y="132.08" size="1.778" layer="95"/>
 <wire x1="236.22" y1="160.02" x2="236.22" y2="132.08" width="0.1524" layer="91"/>
@@ -7570,7 +7572,7 @@ Source: http://pdfserv.maxim-ic.com/en/ds/MAX3222-MAX3241.pdf</description>
 </net>
 <net name="RS232_CTS" class="0">
 <segment>
-<pinref part="IC1" gate="G$1" pin="T2OUT"/>
+<pinref part="U8" gate="G$1" pin="T2OUT"/>
 <wire x1="226.06" y1="157.48" x2="241.3" y2="157.48" width="0.1524" layer="91"/>
 <wire x1="241.3" y1="157.48" x2="241.3" y2="119.38" width="0.1524" layer="91"/>
 <wire x1="241.3" y1="119.38" x2="190.5" y2="119.38" width="0.1524" layer="91"/>
@@ -7619,7 +7621,7 @@ Source: http://pdfserv.maxim-ic.com/en/ds/MAX3222-MAX3241.pdf</description>
 </net>
 <net name="RS232_RTS" class="0">
 <segment>
-<pinref part="IC1" gate="G$1" pin="R2IN"/>
+<pinref part="U8" gate="G$1" pin="R2IN"/>
 <wire x1="226.06" y1="152.4" x2="238.76" y2="152.4" width="0.1524" layer="91"/>
 <wire x1="238.76" y1="152.4" x2="238.76" y2="121.92" width="0.1524" layer="91"/>
 <wire x1="238.76" y1="121.92" x2="193.04" y2="121.92" width="0.1524" layer="91"/>
@@ -7647,13 +7649,13 @@ Source: http://pdfserv.maxim-ic.com/en/ds/MAX3222-MAX3241.pdf</description>
 <segment>
 <pinref part="F2" gate="A" pin="1"/>
 <pinref part="J2" gate="G$1" pin="VBUS"/>
-<wire x1="147.32" y1="63.5" x2="154.94" y2="63.5" width="0.1524" layer="91"/>
+<wire x1="152.4" y1="63.5" x2="154.94" y2="63.5" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="N$46" class="0">
 <segment>
 <pinref part="F2" gate="A" pin="2"/>
-<wire x1="147.32" y1="73.66" x2="147.32" y2="76.2" width="0.1524" layer="91"/>
+<wire x1="152.4" y1="73.66" x2="152.4" y2="76.2" width="0.1524" layer="91"/>
 <pinref part="D3" gate="G$1" pin="A"/>
 </segment>
 </net>
