@@ -4,7 +4,7 @@ This is a simple adapter for connecting the MDB1986 board to the MIL_STD_1553 bu
 It is based on the 5559UH13YA transciever chip by NPO "Physica". This component and transformer can be found in the 5559.lbr file.
 
 ##### The adapter board:
-![M1553io_brd.png](M1553io_brd.png)
+![M1553io_brd.jpg](M1553io_brd.jpg)
 
 ##### The adapter schematics:
 ![M1553io.png](M1553io.png)
