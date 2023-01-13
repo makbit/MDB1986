@@ -14,6 +14,10 @@ Holding registers simply store predefined values: { 0, 1, 2, 3, 4, 5, 6, 7 }.
 ### Slave address is set to 0x0A (10 decimal).
 ![Modbus-1.png](Modbus-1.png)
 
+### Timings
+![Modbus-2.png](Modbus-2.png)
+
+### Project structure
 The project folder contains **modbus** subfolder and the MCU specific **port_1986BE1T**.
 ![Modbus-3.png](Modbus-3.png)
 
