@@ -1,5 +1,11 @@
 ## MDB1986 - Milandr Development Board for [K1986BE1QI MCU (package LQFP-144)](https://ic.milandr.ru/products/mikrokontrollery_i_protsessory/32_razryadnye_mikrokontrollery/1986vekh_avia/k1986ve1t/).
-> This is an open hardware project for tutorial purposes.
+> This is an open source hardware project for tutorial purposes.
+
+![GitHub repo size](https://img.shields.io/github/repo-size/makbit/MDB1986)
+![GitHub search hit counter](https://img.shields.io/github/stars/makbit/MDB1986)
+![GitHub search hit counter](https://img.shields.io/github/search/makbit/MDB1986/Milandr)
+![GitHub search hit counter](https://img.shields.io/github/search/makbit/MDB1986/K1986BE1QI)
+![GitHub search hit counter](https://img.shields.io/github/search/makbit/MDB1986/MIL-STD-1553)
 
 The PCB was designed in the Eagle CAD 9.0.
 
